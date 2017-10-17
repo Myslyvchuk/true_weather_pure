@@ -1,4 +1,4 @@
-package com.myslyv4uk.weather.provider;
+package com.myslyv4uk.weather.impl.provider;
 
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
